@@ -87,8 +87,5 @@ public class Main {
             bank = bank + money1 + money1 / 100;
             System.out.println("Месяц " + i + " , сумма накоплений равна " + bank + " рублей");
         }
-
-        // Задание 10
-        //
     }
 }
